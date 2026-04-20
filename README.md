@@ -25,12 +25,12 @@ You can download the latest installer from the [Releases](https://github.com/Win
 ---
 
 * Excluded characters will be saved when the box next to their name is checked and is useable on either Plugin Inventory
-<img width="1907" height="1025" alt="ss4" src="https://github.com/user-attachments/assets/d5c98f9e-6776-457d-933a-dbe83f8bb30d" />
+<img width="1907" height="1024" alt="ss3" src="https://github.com/user-attachments/assets/9273b271-f95e-4c44-8617-42962fe87ecb" />
 
 ---
 
 * Can setup your criteria, save it and update it.
-<img width="1907" height="1024" alt="ss3" src="https://github.com/user-attachments/assets/9273b271-f95e-4c44-8617-42962fe87ecb" />
+<img width="1907" height="1025" alt="ss4" src="https://github.com/user-attachments/assets/d5c98f9e-6776-457d-933a-dbe83f8bb30d" />
 
 ---
 
